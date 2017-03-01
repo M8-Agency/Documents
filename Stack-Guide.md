@@ -116,7 +116,7 @@ Need to write some stuff about our Python usage.
 
 ## Credits
 
-Most of the credit for this guide goes to my friend [Waldemar Figueroa](https://github.com/waldemarfm), who wrote the original stack guide in our past life.
+Credit is due to my friend [Waldemar Figueroa](https://github.com/waldemarfm), who wrote the original stack guide in our past life.
 
 
 
