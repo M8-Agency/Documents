@@ -15,7 +15,7 @@
 
 * Learn what [SVGs](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction) are and their advantages over bitmaps.
 
-* We use the [SVG symbols](https://css-tricks.com/svg-symbol-good-choice-icons/) spritesheet technique to hold all our SVGs. Learn more: [Icon system](https://css-tricks.com/svg-sprites-use-better-icon-fonts/), [External SVG file](https://css-tricks.com/svg-use-external-source/), and our [Elixir extension](https://github.com/waldemarfm/laravel-elixir-svg-symbols).
+* We use the [SVG symbols](https://css-tricks.com/svg-symbol-good-choice-icons/) spritesheet technique to hold all our SVGs. Learn more: [Icon system](https://css-tricks.com/svg-sprites-use-better-icon-fonts/), [External SVG file](https://css-tricks.com/svg-use-external-source/).
 
 * Research how SVG images can be modified with CSS with fills, strokes, etc.
 
